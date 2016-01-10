@@ -4,7 +4,7 @@ Dockerfile to run ipython/scipy server with the addition of OpenCV and Caffe.
 
 Based on the trafferty/docker-ipython-opencv docker image, this dockerfile adds latest Caffe built from source.
 
-PyCaffe installed at /opt/caffe/python
+PyCaffe built for Python 2.7 and installed at /opt/caffe/python. No support for Python 3.
 
 This image can be used to run the FCN Tutorial (Fully Convolutional Network for Left Ventricle Segmentation) located at:
 
