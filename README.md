@@ -1,4 +1,4 @@
-# docker-ipython-opencv-caffe
+# docker-ipython-opencv3-caffe
 
 Dockerfile to run ipython/scipy server with the addition of OpenCV and Caffe.
 
