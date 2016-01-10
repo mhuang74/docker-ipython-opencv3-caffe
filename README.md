@@ -16,7 +16,7 @@ trafferty/docker-ipython-opencv
 ###Usage
 Pull it:
 ```
-    docker pull mhuang74/docker-ipython-opencv3-caffe
+    docker pull mhuang74/ipython-opencv3-caffe
 ```
 Run it:
 ```
