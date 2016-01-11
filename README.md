@@ -22,7 +22,7 @@ Pull it:
 ```
 Run it:
 ```
-    docker run --name cv_caffe_notebook -d -p 443:8888 -v $(pwd):/var/local/notebooks/data -e "PASSWORD=MY_PASSWORD"  mhuang74/ipython-opencv3-caffe
+    docker run --name cv_caffe_notebook -d -p 443:8888 -v $(pwd):/var/local/notebooks -e "PASSWORD=MY_PASSWORD"  mhuang74/ipython-opencv3-caffe
 ```
 After it is running, point your browser to https://localhost, login with the password provided in above step, and you can then start your first ipython notebook using  OpenCV and Caffe modules.  
 
