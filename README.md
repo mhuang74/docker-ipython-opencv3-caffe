@@ -1,6 +1,6 @@
 # docker-ipython-opencv3-caffe
 
-Dockerfile to run ipython/scipy server with the addition of OpenCV and Caffe.
+Dockerfile to run ipython/scipy server with the addition of OpenCV and Caffe. Here's the [DockerHub image](https://hub.docker.com/r/mhuang74/ipython-opencv3-caffe/).
 
 Based on the trafferty/docker-ipython-opencv docker image, this dockerfile adds latest Caffe built from source.
 
